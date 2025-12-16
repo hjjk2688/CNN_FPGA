@@ -106,3 +106,12 @@ buf_flag: 버퍼 내에서 어느 위치가 첫 번째 row인지 (0~4 순환)
 
 - w_idx 가 1~25 까지 25개 출력 26 때 valid_out_buf = 0 으로 사용불가
 - h_dix 가 23까지 하고 0으로 초기화 buf 139에 맞춰 멈춰야되지만 110에 멈춤 => 제대로된 이미지를 처리할수없음
+
+---
+
+# line buffer 구현
+
+#### 보드 구현 문제를 해결하기 위해서 line buffer 구현
+
+<img width="1439" height="269" alt="image" src="https://github.com/user-attachments/assets/d56b7b38-df56-4bbd-a8d9-7653794163a6" />
+
