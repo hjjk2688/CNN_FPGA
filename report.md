@@ -476,6 +476,20 @@ FPGA 하드웨어 가속기의 성능을 검증하기 위해, 동일한 CNN 알�
 * 본 가속기는 **라인 버퍼(Line Buffer)** 기술을 통해 스트리밍 데이터가 칩 내부에서 재사용되도록 설계하여 메모리 대역폭 의존도를 최소화했으며, 베어메탈(Bare-metal) 수준의 동작으로 SW 오버헤드를 원천 차단하였다.
 
 
+---
+
+## ARM Cortex-A9 비교(PS에 내장된 코어) 
+
+compare_time.c
+
+<img width="526" height="92" alt="image" src="https://github.com/user-attachments/assets/c323d6a5-5873-4321-8805-0239f7fbcf49" />
+
+<img width="700" height="398" alt="image" src="https://github.com/user-attachments/assets/27175935-1889-4fba-81bb-b61e89de30df" />
+
+<img width="700" height="559" alt="image" src="https://github.com/user-attachments/assets/fd88cc21-60ac-4468-923c-0769ed38f9cf" />
+
+
+---
 ### 7.4 리소스 사용률
 
 효율적인 아키텍처 설계(고정 스케일링, 시분할 연산)를 통해 Zynq-7000의 제한된 자원 내에서 성공적으로 구현되었습니다.
