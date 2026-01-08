@@ -542,3 +542,14 @@ compare_time.c
 특히, 데이터 재사용을 극대화한 라인 버퍼, Critical Path를 단축시킨 이진 덧셈 트리, 그리고 성능과 자원 간의 균형을 맞춘 병렬/직렬 아키텍처의 전략적 선택은 단순히 하나의 프로젝트 완성을 넘어, 
 
 향후 더 복잡하고 깊은 신경망을 FPGA에 구현하기 위한 견고한 **'아키텍처적 청사진(Architectural Blueprint)'** 을 마련했다는 점에서 큰 의의를 가집니다.
+
+---
+<img width="392" height="294" alt="image" src="https://github.com/user-attachments/assets/141d20c4-f298-497f-a34b-9493cb01037d" />
+</br>
+<img width="600" height="405" alt="image" src="https://github.com/user-attachments/assets/b90ab433-6956-4294-a27e-cee772fec94b" />
+</br>
+<img width="600" height="420" alt="image" src="https://github.com/user-attachments/assets/8cc3ed68-9543-49e5-8324-57564536faaa" />
+
+
+
+
